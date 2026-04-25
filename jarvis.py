@@ -50,6 +50,9 @@ while True:
         subprocess.run(["firefox", "https://www.MyGov.in/"])
     elif "idk what to say" in query or "idk what to do" in query:
         print("Just ask me to open something, Renz. I can open your browser, file explorer, and even specific websites like YouTube, Roblox, and Amazon.")
+    elif "github" in query or "code" in query or "my app" in query:
+        print("Opening GitHub...")
+        subprocess.run(["firefox", "github.com"])
     elif "help" in query or "commands" in query or "/help" in query:
         print("Here are some commands you can try:")
         print("- 'time' to know the current time")
