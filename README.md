@@ -15,7 +15,7 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 CURRENT FEATURES :-
 
--> opens youtube, browser, file explorer, roblox.
+-> opens youtube, browser, file explorer, roblox, amazon (can change to .com from .in), the person who takes tax from us indian citizens, (OPTIONAL TO REMOVE) opens mission jeet website cuz im a student, (OPTIONAL TO REMOVE) opens the indian government website, (OPTIONAL TO REMOVE THE LAST FEATURE THAT SHUTS OFF ROBLOX AT 4:10PM TO 6:10PM cuz it enforces my study time).
 
 Credits :-
-Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!!
+Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!! Oh and, still in progress cuz dev lazy :p 
