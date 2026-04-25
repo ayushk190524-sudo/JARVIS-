@@ -1,4 +1,21 @@
 # JARVIS-
-THIS IS A MASSIVE JARVIS PROJECT ONLY MADE FOR LINUX CURRENTLY, IF YOU USE WINDOWS, THE VERSION WILL BE RELEASED SOON(not)!! 
+So, This is a massive project made by me, "Dumbass-sudo". 
 
-HOW TO USE!! MUST HAVE PYTHON! THEN, GO TO COSMIC TERMINAL CUZ IM ONLY MAKING FOR UBUNTU Pop!_os CURRENTLY, LOCATE TO WHERE YOU KEEP THE FILES, IN TERMINAL, TYPE "cd (filelocation)" AND THEN TYPE "python3 jarvis.py (or the file name you keep)", AND ENJOY!! PLEASE COOPERATE BECUZ JARVIS IS STILL UNDER DEVELOPMENT!! (and cuz im doing it for free hehe)!!
+This model is currently only for linux, Not available for windows, yet. Modifications will be made.
+
+HOW TO USE?
+
+so. this is currently only for Ubuntu systems, But can be modified to any system the user likes.
+
+how to use :- First, copy paste on visual studios or any coding app you use.
+--> Then, modify the name to what you like, since i kept "R3nz (Renz)", you can simply modifiy it accordingly to how you like to be called from Jarvis.
+--> To not worry about the timings being wrong, The jarvis imports time from your OS so make sure to have kept the proper timings and date.
+--> To change it to the broswer you like, simply just change the "FireFox" to any browser you use, Just so you know, it might be case sensitive so please type the browser name properly.
+--> Run via terminal. Must have python installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 jarvis.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
+
+CURRENT FEATURES :-
+
+-> opens youtube, browser, file explorer, roblox.
+
+Credits :-
+Me ofc hehe, but seriously, sorry for not updating anything because im busy in irl because of studies etc. #OPENSOURCEFOREVER!!
